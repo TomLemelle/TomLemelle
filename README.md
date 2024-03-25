@@ -13,4 +13,4 @@ UX/UI & Figma: Leveraging Figma for UX/UI design, I develop interfaces that cate
 
 💼 Professional Experience
 
-Currently serving as CTO on two major projects utilizing React with TypeScript and AdonisJS, showcasing my ability to lead technically and collaborate towards project success.
+Currently serving as CTO on two major SAAS projects utilizing React with TypeScript and AdonisJS, showcasing my ability to lead technically and collaborate towards project success.
